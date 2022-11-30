@@ -1,0 +1,39 @@
+{
+    "data": {
+        "store"     : "NAILS SPA",
+        "slug"      : "nails-spa",
+        "phone"     : "(724) 201-0221",
+        "email"     : "quocnguyen211017@gmail.com",
+        "address"   : "231 PA-288, Ellwood City, PA 16117",
+        "state"     : "Pennsylvania 16117 ",
+        "ward"      : "Ellwood City",
+        "time_1"    : "Mon - Fri: 10:00 AM - 7:00 PM",
+        "time_2"    : "Sat: 10:00 AM - 6:00 PM",
+        "time_3"    : "Sun: Closed"
+
+    },
+    "url":  {
+        "facebook"  :   "https://www.facebook.com/nailsspa16117/",
+        "instagram" :   "https://www.instagram.com/nailsspa16117/",
+        "google"    :   "https://goo.gl/maps/9UUgopTJ4PWQH3hQ9", 
+        "booking"   :   "https://www.lldtek.com/salon/appt/NDk3OTV8bmFpbHNzcGEyMzF8UEFfMDgxNTB8NDMwNTc4ZWIyYzhmYTc4MThmZmM5ODBiZTBiZWYxN2M=",
+        "maps"      :   "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12072.499292317134!2d-80.263244!3d40.8471832!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb4b845c9219cbeee!2sNails%20spa!5e0!3m2!1sen!2s!4v1669174198504!5m2!1sen!2s"
+    },
+    "color": {
+        "primary"               :   "#278547",
+        "primary_light"         :   "#F2C4D0",
+        "primary_hover"         :   "#33a55a",
+        "secondary"             :   "#f8b8b6",
+        "secondary_hover"       :   "#fff886",
+        "text_primary"          :   "#ffffff",
+        "text_primary_hover"    :   "#ebac4a",
+        "text_secondary"        :   "#5c7262",
+        "text_secondary_hover"  :   "#ebac4a",
+        "text_title"            :   "#429D64",
+        "text_title_hover"      :   "#90C73E"
+    },
+    "debug":        "on",
+    "path_image":   "img/",
+    "domain":       "https://nailsspapa.com/"
+}
+
